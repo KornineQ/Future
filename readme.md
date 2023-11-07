@@ -19,3 +19,26 @@
   <br>
   <img src="https://img.shields.io/github/languages/top/KornineQ/Future">
 </p>
+
+-----
+
+### <p align="center">🔑 Usage 🔑</p>
+<p align="center"><i><b>
+To inject Future you can use <a href="https://github.com/warbler/SharpMonoInjector">SharpMonoInjector</a>
+by passing "Loader" as the class name and "Load" as the method name.
+</b></i></p>
+
+-----
+
+-----
+
+### <p align="center">💡 Ideas 💡</p>
+
+    • Fix my shitty code.
+
+<p align="center"><i><b>Feel free to submit any idea by making a pull request on this repository!</b></i></p>
+<p align="center"><i><b>SRC AT 10 LIKES!!</b></i></p>
+
+-----
+
+### <p align="center"><a href="https://github.com/KornineQ">KornineQ Profile</a></p> <p align="center"><a href="https://github.com/waxnet/NetWare/">Original UnModded</a></p> 
