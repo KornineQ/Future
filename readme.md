@@ -30,8 +30,6 @@ by passing "Loader" as the class name and "Load" as the method name.
 
 -----
 
------
-
 ### <p align="center">💡 Ideas 💡</p>
 
     • Fix my shitty code.
