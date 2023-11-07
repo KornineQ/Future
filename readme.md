@@ -27,7 +27,9 @@
 To inject Future you can use <a href="https://github.com/warbler/SharpMonoInjector">SharpMonoInjector</a>
 by passing "Loader" as the class name and "Load" as the method name.
 </b></i></p>
-
+<p align="center"><i><b>
+To Show/Hide ui you have to click "Home", "Insert", "Del"
+</b></i></p>
 -----
 
 ### <p align="center">💡 Ideas 💡</p>
