@@ -11,7 +11,7 @@
 ### <p align="center">💙 Future 💙</p>
 <p align= "center">
   <img src="https://img.shields.io/github/last-commit/KornineQ/Future">
-  <img src="https://img.shields.io/github/license/waxnet/KornineQ/Future">
+  <img src="https://img.shields.io/github/license/KornineQ/Future">
   <br>
   <img src="https://img.shields.io/github/stars/KornineQ/Future">
   <img src="https://img.shields.io/github/forks/KornineQ/Future">
